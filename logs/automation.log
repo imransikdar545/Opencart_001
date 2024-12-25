@@ -1,0 +1,100 @@
+2024-12-24 12:15:53.882 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - clicking on my account link
+2024-12-24 12:15:53.884 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - clicking on my account link
+2024-12-24 12:15:54.137 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+2024-12-24 12:15:54.138 [TestNG-tests-2] INFO  testCases.TC001_AccountRegistrationTest - Clicking on register link
+2024-12-24 12:15:54.288 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+2024-12-24 12:15:54.290 [TestNG-tests-1] INFO  testCases.TC001_AccountRegistrationTest - Clicking on register link
+2024-12-24 12:15:59.057 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2024-12-24 12:15:59.058 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - clicking on my account link
+2024-12-24 12:15:59.332 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+2024-12-24 12:15:59.333 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicking on register link
+2024-12-24 12:15:59.624 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Clicked on on register link
+2024-12-24 12:15:59.628 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Entering user details
+2024-12-24 12:15:59.854 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Entered details user
+2024-12-24 12:16:00.671 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2024-12-24 12:16:00.696 [TestNG-tests-3] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+2024-12-24 12:17:56.082 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Imran.Sikdar\eclipse-workspace\Opencart_001\Master.xml"
+2024-12-24 12:17:56.355 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Imran.Sikdar\eclipse-workspace\Opencart_001\Master.xml
+
+2024-12-24 12:17:59.190 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2024-12-24 12:17:59.206 [main] INFO  testCases.TC001_AccountRegistrationTest - clicking on my account link
+2024-12-24 12:17:59.525 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+2024-12-24 12:17:59.525 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on register link
+2024-12-24 12:17:59.857 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on on register link
+2024-12-24 12:17:59.859 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details
+2024-12-24 12:18:00.345 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered details user
+2024-12-24 12:18:01.031 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2024-12-24 12:18:01.104 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+2024-12-24 12:18:03.210 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+2024-12-24 12:18:03.211 [main] INFO  testCases.TC002_LoginTest - clicking on my account link
+2024-12-24 12:18:03.579 [main] INFO  testCases.TC002_LoginTest - Clicked on my account link
+2024-12-24 12:18:03.834 [main] INFO  testCases.TC002_LoginTest - Clicked on on register link
+2024-12-24 12:18:03.837 [main] INFO  testCases.TC002_LoginTest - Entering login details
+2024-12-24 12:18:04.069 [main] INFO  testCases.TC002_LoginTest - entered login details
+2024-12-24 12:18:04.561 [main] INFO  testCases.TC002_LoginTest - Clicked on login button
+2024-12-24 12:18:04.561 [main] INFO  testCases.TC002_LoginTest - Validating expected message
+2024-12-24 12:18:04.596 [main] INFO  testCases.TC002_LoginTest - Finished TC002_LoginTest
+2024-12-24 12:21:10.972 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Imran.Sikdar\eclipse-workspace\Opencart_001\grouping.xml"
+2024-12-24 12:21:11.258 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Imran.Sikdar\eclipse-workspace\Opencart_001\grouping.xml
+
+2024-12-24 12:21:13.631 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2024-12-24 12:21:13.651 [main] INFO  testCases.TC001_AccountRegistrationTest - clicking on my account link
+2024-12-24 12:21:13.755 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+2024-12-24 12:21:13.755 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on register link
+2024-12-24 12:21:14.041 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on on register link
+2024-12-24 12:21:14.043 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details
+2024-12-24 12:21:14.463 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered details user
+2024-12-24 12:21:15.095 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2024-12-24 12:21:15.139 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+2024-12-24 12:21:17.105 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+2024-12-24 12:21:17.107 [main] INFO  testCases.TC002_LoginTest - clicking on my account link
+2024-12-24 12:21:17.457 [main] INFO  testCases.TC002_LoginTest - Clicked on my account link
+2024-12-24 12:21:17.700 [main] INFO  testCases.TC002_LoginTest - Clicked on on register link
+2024-12-24 12:21:17.703 [main] INFO  testCases.TC002_LoginTest - Entering login details
+2024-12-24 12:21:17.913 [main] INFO  testCases.TC002_LoginTest - entered login details
+2024-12-24 12:21:18.444 [main] INFO  testCases.TC002_LoginTest - Clicked on login button
+2024-12-24 12:21:18.444 [main] INFO  testCases.TC002_LoginTest - Validating expected message
+2024-12-24 12:21:18.477 [main] INFO  testCases.TC002_LoginTest - Finished TC002_LoginTest
+2024-12-24 12:21:37.060 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Imran.Sikdar\eclipse-workspace\Opencart_001\grouping.xml"
+2024-12-24 12:21:37.392 [main] INFO  org.testng.internal.Utils - [TestNG] Running:
+  C:\Users\Imran.Sikdar\eclipse-workspace\Opencart_001\grouping.xml
+
+2024-12-24 12:21:40.327 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2024-12-24 12:21:40.344 [main] INFO  testCases.TC001_AccountRegistrationTest - clicking on my account link
+2024-12-24 12:21:40.677 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+2024-12-24 12:21:40.677 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on register link
+2024-12-24 12:21:40.967 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on on register link
+2024-12-24 12:21:40.969 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details
+2024-12-24 12:21:41.439 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered details user
+2024-12-24 12:21:42.033 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2024-12-24 12:21:42.078 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+2024-12-24 12:21:44.457 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+2024-12-24 12:21:44.458 [main] INFO  testCases.TC002_LoginTest - clicking on my account link
+2024-12-24 12:21:44.573 [main] INFO  testCases.TC002_LoginTest - Clicked on my account link
+2024-12-24 12:21:44.834 [main] INFO  testCases.TC002_LoginTest - Clicked on on register link
+2024-12-24 12:21:44.837 [main] INFO  testCases.TC002_LoginTest - Entering login details
+2024-12-24 12:21:45.088 [main] INFO  testCases.TC002_LoginTest - entered login details
+2024-12-24 12:21:45.610 [main] INFO  testCases.TC002_LoginTest - Clicked on login button
+2024-12-24 12:21:45.611 [main] INFO  testCases.TC002_LoginTest - Validating expected message
+2024-12-24 12:21:45.655 [main] INFO  testCases.TC002_LoginTest - Finished TC002_LoginTest
+2024-12-24 18:40:04.716 [main] DEBUG org.testng.TestNG - suiteXmlPath: "C:\Users\Imran.Sikdar\eclipse-workspace\Opencart_001\master.xml"
+2024-12-24 18:40:13.182 [main] INFO  testCases.TC001_AccountRegistrationTest - Starting TC001_AccountRegistrationTest
+2024-12-24 18:40:13.248 [main] INFO  testCases.TC001_AccountRegistrationTest - clicking on my account link
+2024-12-24 18:40:14.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on my account link
+2024-12-24 18:40:14.015 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicking on register link
+2024-12-24 18:40:14.584 [main] INFO  testCases.TC001_AccountRegistrationTest - Clicked on on register link
+2024-12-24 18:40:14.591 [main] INFO  testCases.TC001_AccountRegistrationTest - Entering user details
+2024-12-24 18:40:16.071 [main] INFO  testCases.TC001_AccountRegistrationTest - Entered details user
+2024-12-24 18:40:17.075 [main] INFO  testCases.TC001_AccountRegistrationTest - Validating expected message
+2024-12-24 18:40:17.163 [main] INFO  testCases.TC001_AccountRegistrationTest - Finished TC001_AccountRegistrationTest
+2024-12-24 18:40:21.833 [main] INFO  testCases.TC002_LoginTest - Starting TC002_LoginTest
+2024-12-24 18:40:21.834 [main] INFO  testCases.TC002_LoginTest - clicking on my account link
+2024-12-24 18:40:23.166 [main] INFO  testCases.TC002_LoginTest - Clicked on my account link
+2024-12-24 18:40:23.622 [main] INFO  testCases.TC002_LoginTest - Clicked on on register link
+2024-12-24 18:40:23.626 [main] INFO  testCases.TC002_LoginTest - Entering login details
+2024-12-24 18:40:24.147 [main] INFO  testCases.TC002_LoginTest - entered login details
+2024-12-24 18:40:24.789 [main] INFO  testCases.TC002_LoginTest - Clicked on login button
+2024-12-24 18:40:24.790 [main] INFO  testCases.TC002_LoginTest - Validating expected message
+2024-12-24 18:40:25.049 [main] INFO  testCases.TC002_LoginTest - Finished TC002_LoginTest
